@@ -16,11 +16,11 @@ The number n will be taken by user till which we have to find all prime numbers.
 All the prime numbers before n will be printed
 
 # Sample Input
-50
+>50
 
 # Sample Output
-2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
+>2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
  
 Implementation
->C++
+C++
  

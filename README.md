@@ -1,8 +1,6 @@
 # Sieve-of-eratoshenes-algorithm
 Most efficient way to find prime numbers under 10 million
 
-
-
 Following is the algorithm to find all the prime numbers less than or equal to a given integer n by Eratosthenes’ method:
 
    1. Create a list of consecutive integers from 2 to n: (2, 3, 4, …, n).
@@ -21,8 +19,8 @@ Sample Input
 50
 
 Sample Output
- 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
  
- Implementation
- >C++
+Implementation
+>C++
  
